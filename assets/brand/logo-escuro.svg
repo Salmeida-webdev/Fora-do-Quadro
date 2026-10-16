@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="112" viewBox="0 0 470 112" role="img" aria-labelledby="title desc">
+  <title id="title">Fora do Quadro</title><desc id="desc">Lettering Fora do Quadro com moldura interrompida em azul e coral.</desc>
+  <g fill="none" stroke-width="7" stroke-linecap="square">
+    <path d="M11 34V10h27M82 10h27v25M109 78v24H82M38 102H11V76" stroke="#453bff"/>
+    <path d="M11 48v16M109 48v16" stroke="#ff5f55"/>
+  </g>
+  <text x="132" y="53" fill="#151515" font-family="Impact,Arial Narrow,sans-serif" font-size="43" font-weight="900" letter-spacing="-1.5">FORA DO</text>
+  <text x="132" y="97" fill="#453bff" font-family="Impact,Arial Narrow,sans-serif" font-size="43" font-weight="900" letter-spacing="-1.5">QUADRO</text>
+</svg>

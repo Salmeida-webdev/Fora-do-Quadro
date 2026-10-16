@@ -1,0 +1,12 @@
+1. Baixe o arquivo ZIP para a pasta Downloads.
+2. Execute esta linha no PowerShell para extrair e abrir a página:
+
+$Project = Join-Path $env:USERPROFILE 'Downloads\fora-do-quadro'; $Archive = Join-Path $env:USERPROFILE 'Downloads\fora-do-quadro-landing-page.zip'; Expand-Archive -LiteralPath $Archive -DestinationPath $Project -Force; Set-Location $Project; Start-Process '.\index.html'
+
+O pacote é estático e não exige npm nem instalação de dependências. Para validar o áudio no navegador, clique em “Aperte o play” na própria página.
+
+Para criar o primeiro commit local depois de extrair:
+
+Set-Location (Join-Path $env:USERPROFILE 'Downloads\fora-do-quadro'); git init; git add .; git commit -m "Cria landing page Fora do Quadro"
+
+O envio para GitHub e o deploy precisam do repositório e da hospedagem escolhidos.

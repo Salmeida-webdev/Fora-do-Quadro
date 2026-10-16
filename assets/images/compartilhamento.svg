@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f2ebdd"/>
+  <path d="M0 0h28v630H0z" fill="#453bff"/>
+  <path d="M77 97V54h48M348 54h48v48M396 268v48h-48M125 316H77v-48" fill="none" stroke="#453bff" stroke-width="12"/>
+  <path d="M77 158v69M396 158v69" stroke="#ff5f55" stroke-width="12"/>
+  <text x="80" y="420" fill="#151515" font-family="Impact,Arial Narrow,sans-serif" font-weight="900" font-size="150" letter-spacing="-5">FORA DO</text>
+  <text x="80" y="555" fill="#453bff" font-family="Impact,Arial Narrow,sans-serif" font-weight="900" font-size="150" letter-spacing="-5">QUADRO</text>
+  <text x="760" y="112" fill="#151515" font-family="Courier New,monospace" font-size="19" font-weight="700" letter-spacing="3">FESTIVAL CONCEITUAL</text>
+  <text x="760" y="165" fill="#151515" font-family="Arial,sans-serif" font-size="28">Cultura que não cabe</text>
+  <text x="760" y="203" fill="#151515" font-family="Arial,sans-serif" font-size="28">na moldura.</text>
+  <rect x="760" y="270" width="350" height="220" fill="#151515"/>
+  <text x="800" y="395" fill="#e8ee52" font-family="Impact,Arial Narrow,sans-serif" font-size="48">MÚSICA · ARTE · ENCONTROS</text>
+  <circle cx="1080" cy="88" r="16" fill="#ff5f55"/>
+</svg>

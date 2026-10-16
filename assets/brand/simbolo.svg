@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="Símbolo da moldura interrompida">
+  <rect width="128" height="128" rx="64" fill="#453bff"/>
+  <g fill="none" stroke="#f2ebdd" stroke-width="8" stroke-linecap="square">
+    <path d="M35 48V30h19M74 30h19v19M93 78v20H75M54 98H35V78"/>
+  </g>
+  <path d="M31 62h14M83 65h14" stroke="#ff5f55" stroke-width="8" stroke-linecap="round"/>
+</svg>
